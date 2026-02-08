@@ -1,4 +1,4 @@
-# SupplyChainInventoryAnalysis
+
 # Supply Chain & Inventory Analysis using Power BI
 
 ## Project Overview
